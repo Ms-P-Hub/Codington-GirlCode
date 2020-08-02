@@ -1,0 +1,72 @@
+
+#navigation{
+    background-color: #c1134d;
+}
+
+#Icon{
+    width: 2em;
+    height: 2em;
+    color: white;
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+.hide {
+    display: none;
+  }
+  
+.myicon:hover + .hide {
+    display: block;
+    color: white;
+    text-align: center;
+}
+
+#Us{
+    background-color: #c1134d ;
+}
+#ourPictures{
+    border-radius: 100%;
+    width: 100px;
+}
+#social{
+    width: 30px;
+}
+
+.quote{
+    background-color: #c1134d;
+    margin-top: 0;
+    text-align: center;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    
+}
+
+header{
+    background-image: url("Media/tutorImage.jpg");
+    width: 100%;
+}
+
+body{
+    background-image: url("Media/minimal-suble-dark-black-background-with-wavy-lines.jpg");
+}
+footer{
+    background-color: #c1134d;
+}
+h1{
+    color: white;
+}
+.class-img-top{
+    width: 10%;
+}
+.navbar-brand{
+    width: 60px;
+}
+.code-block{
+    padding: 2px;
+}
+.row{
+    padding-top: 7px;
+    padding-bottom:0;
+}
